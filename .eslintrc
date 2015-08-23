@@ -1,0 +1,6 @@
+{
+    "rules": {
+        "sort-vars": 2
+    },
+    "parser": "babel-eslint"
+}
