@@ -1,6 +1,11 @@
 {
+    "ecmaFeatures": {
+        "modules": true
+    },
+    "env": {
+        "es6": true
+    },
     "rules": {
         "sort-vars": 2
-    },
-    "parser": "babel-eslint"
+    }
 }

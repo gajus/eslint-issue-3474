@@ -1,6 +1,6 @@
 {
   "private": true,
   "dependencies": {
-    "babel-eslint": "^4.0.10"
+    "eslint": "^1.2.1"
   }
 }
